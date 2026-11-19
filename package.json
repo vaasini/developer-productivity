@@ -1,0 +1,20 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "description": "sample test",
+  "homepage": "https://github.com/vaasini/developer-productivity#readme",
+  "bugs": {
+    "url": "https://github.com/vaasini/developer-productivity/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaasini/developer-productivity.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
